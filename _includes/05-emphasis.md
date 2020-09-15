@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+**_Below_** is a _list_ of my **technical skills**
+
+## Programming languahes
+- Flutter
+- Html
+- Css
+
+## Collaboration
+- Git
+- Github
+- Bitbucket
